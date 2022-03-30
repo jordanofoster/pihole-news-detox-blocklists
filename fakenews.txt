@@ -1,21 +1,21 @@
-0.0.0.0 abcnews.com.co
-0.0.0.0 site.brasilparalelo.com.br
-0.0.0.0 denverguardian.com
-0.0.0.0 thegatewaypundit.com
-0.0.0.0 globaltimes.cn
-0.0.0.0 huanqiu.com
-0.0.0.0 www.infowars.com
-0.0.0.0 libertywriters.com
-0.0.0.0 www.lifesitenews.com
-0.0.0.0 nationalreport.net
-0.0.0.0 www.naturalnews.com
-0.0.0.0 newspunch.com
-0.0.0.0 occupydemocrats.com
-0.0.0.0 www.opindia.com
-0.0.0.0 www.palmerreport.com
-0.0.0.0 www.projectveritas.com
-0.0.0.0 swprs.org
-0.0.0.0 www.tercalivre.com.br
-0.0.0.0 trunews.com
-0.0.0.0 www.veteranstoday.com
-0.0.0.0 worldnewsdailyreport.com
+abcnews.com.co
+site.brasilparalelo.com.br
+denverguardian.com
+thegatewaypundit.com
+globaltimes.cn
+huanqiu.com
+www.infowars.com
+libertywriters.com
+www.lifesitenews.com
+nationalreport.net
+www.naturalnews.com
+newspunch.com
+occupydemocrats.com
+www.opindia.com
+www.palmerreport.com
+www.projectveritas.com
+swprs.org
+www.tercalivre.com.br
+trunews.com
+www.veteranstoday.com
+worldnewsdailyreport.com

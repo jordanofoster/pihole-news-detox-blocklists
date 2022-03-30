@@ -1,17 +1,17 @@
-0.0.0.0 bellingcat.com
-0.0.0.0 thebulletin.org
-0.0.0.0 covertactionmagazine.com
-0.0.0.0 www.debka.com
-0.0.0.0 www.iran.org
-0.0.0.0 informnapalm.org
-0.0.0.0 sprotyv.info
-0.0.0.0 www.statecraft.org.uk
-0.0.0.0 iwep.kz
-0.0.0.0 www.intelcenter.com
-0.0.0.0 theintercept.com
-0.0.0.0 janes.com
-0.0.0.0 lintcenter.org
-0.0.0.0 www.siteintelgroup.com
-0.0.0.0 www.stratfor.com
-0.0.0.0 theins.ru
-0.0.0.0 wikistrat.com
+bellingcat.com
+thebulletin.org
+covertactionmagazine.com
+www.debka.com
+www.iran.org
+informnapalm.org
+sprotyv.info
+www.statecraft.org.uk
+iwep.kz
+www.intelcenter.com
+theintercept.com
+janes.com
+lintcenter.org
+www.siteintelgroup.com
+www.stratfor.com
+theins.ru
+wikistrat.com

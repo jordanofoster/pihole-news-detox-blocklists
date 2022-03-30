@@ -1,413 +1,413 @@
-0.0.0.0	dailysoapdish.com
-0.0.0.0 19thnews.org
-0.0.0.0 38north.org
-0.0.0.0 3quarksdaily.com
-0.0.0.0 Indymedia.org
-0.0.0.0 abajournal.com
-0.0.0.0 abcnews.com.co
-0.0.0.0 about.bgov.com
-0.0.0.0 accessinterviews.com
-0.0.0.0 addisneger.com
-0.0.0.0 adn.com
-0.0.0.0 afghantimes.com
-0.0.0.0 afterellen.com
-0.0.0.0 agoravox.fr
-0.0.0.0 aintitcool.com
-0.0.0.0 airwaysnews.com
-0.0.0.0 ajplus.net
-0.0.0.0 al-monitor.com
-0.0.0.0 allheadlinenews.com
-0.0.0.0 allthingsd.com
-0.0.0.0 alphavilleherald.com
-0.0.0.0 alreporter.com
-0.0.0.0 alternet.org
-0.0.0.0 americanbanker.com
-0.0.0.0 americanindependent.com
-0.0.0.0 americanindependentfoundation.com
-0.0.0.0 americaninno.com
-0.0.0.0 anandtech.com
-0.0.0.0 annarbor.com
-0.0.0.0 annarborobserver.com
-0.0.0.0 anotherangryvoice.blogspot.com
-0.0.0.0 apiln.co.uk
-0.0.0.0 archiveofourown.org
-0.0.0.0 arlnow.com
-0.0.0.0 arstechnica.com
-0.0.0.0 ask.com
-0.0.0.0 awardsdaily.com
-0.0.0.0 axios.com
-0.0.0.0 baltimorebrew.com
-0.0.0.0 baltimorejewishlife.com#
-0.0.0.0 bbc.co.uk
-0.0.0.0 bbc.com
-0.0.0.0 beechtreenews.com
-0.0.0.0 bellingcat.com
-0.0.0.0 bisnow.com
-0.0.0.0 bit-tech.net
-0.0.0.0 bittersoutherner.com
-0.0.0.0 blabbermouth.net
-0.0.0.0 blazetv.com
-0.0.0.0 bleedingcool.com
-0.0.0.0 bleepingcomputer.com
-0.0.0.0 blockclubchicago.org
-0.0.0.0 blog.angryasianman.com
-0.0.0.0 blogcritics.org
-0.0.0.0 blottr.com
-0.0.0.0 blueovalnews.com
-0.0.0.0 borderlessmag.org
-0.0.0.0 bossip.com
-0.0.0.0 boston.com
-0.0.0.0 boxun.com
-0.0.0.0 brandchannel.com
-0.0.0.0 breakingtweets.com
-0.0.0.0 breitbart.com
-0.0.0.0 bristol247.com
-0.0.0.0 brooklynvegan.com
-0.0.0.0 broowaha.com
-0.0.0.0 budapestbeacon.com
-0.0.0.0 buzzfeednews.com
-0.0.0.0 bylinetimes.com
-0.0.0.0 calcoastnews.com
-0.0.0.0 campusreform.org
-0.0.0.0 canyu.org
-0.0.0.0 capitolhillseattle.com
-0.0.0.0 captimes.com
-0.0.0.0 capx.co
-0.0.0.0 carsonvalleytimes.com
-0.0.0.0 cbsnews.com
-0.0.0.0 celebuzz.com
-0.0.0.0 chalkbeat.org
-0.0.0.0 chestertelegraph.org
-0.0.0.0 chicagonewscoop.org
-0.0.0.0 chinadigitaltimes.net
-0.0.0.0 christiantoday.co.uk
-0.0.0.0 christiantoday.com
-0.0.0.0 circa.com
-0.0.0.0 civilbeat.org
-0.0.0.0 cleantechnica.com
-0.0.0.0 cnet.com
-0.0.0.0 codastory.com
-0.0.0.0 collegeacb.blogspot.com
-0.0.0.0 collider.com
-0.0.0.0 coloradoindependent.com
-0.0.0.0 comiconverse.com
-0.0.0.0 comicsbulletin.com
-0.0.0.0 commondreams.org
-0.0.0.0 comtex.com
-0.0.0.0 conservativereview.com
-0.0.0.0 couriernewsroom.com
-0.0.0.0 covertactionmagazine.com
-0.0.0.0 cpnn-world.org
-0.0.0.0 crooked.com
-0.0.0.0 crosscut.com
-0.0.0.0 ctmirror.org
-0.0.0.0 dailycaller.com
-0.0.0.0 dailydot.com
-0.0.0.0 dailyemerald.com
-0.0.0.0 dailymail.co.uk
-0.0.0.0 dailysignal.com
-0.0.0.0 dailytech.com
-0.0.0.0 dailytrojan.com
-0.0.0.0 dailyvoice.com
-0.0.0.0 dailywire.com
-0.0.0.0 dallasexpress.com
-0.0.0.0 darknetlive.com
-0.0.0.0 dcleaks.com
-0.0.0.0 deadline.com
-0.0.0.0 democracynow.org
-0.0.0.0 denverguardian.com
-0.0.0.0 denverpost.com
-0.0.0.0 digg.com
-0.0.0.0 digitalspy.com
-0.0.0.0 digitaltrends.com
-0.0.0.0 diplomacymonitor.com
-0.0.0.0 dlisted.com
-0.0.0.0 dnainfo.com
-0.0.0.0 dolartoday.com
-0.0.0.0 dorseteye.com
-0.0.0.0 doubletoasted.com
-0.0.0.0 downbythehipster.com
-0.0.0.0 downtownjournal.com
-0.0.0.0 drobe.co.uk
-0.0.0.0 drudgereport.com
-0.0.0.0 dwnews.com
-0.0.0.0 eaworldview.com
-0.0.0.0 eenews.net
-0.0.0.0 elderofziyon.blogspot.com
-0.0.0.0 electrek.co
-0.0.0.0 electronicintifada.net
-0.0.0.0 elitedaily.com
-0.0.0.0 enb.iisd.org
-0.0.0.0 encyclopediadramatica.online
-0.0.0.0 epicfu.com
-0.0.0.0 escreporter.com
-0.0.0.0 eurasianet.org
-0.0.0.0 evolvepolitics.com
-0.0.0.0 examiner.com
-0.0.0.0 exaro.news
-0.0.0.0 extremetech.com
-0.0.0.0 fakingnews.com
-0.0.0.0 fanfiction.net
-0.0.0.0 fastflip.googlelabs.com
-0.0.0.0 firstcoastnews.com
-0.0.0.0 foodsafetynews.com
-0.0.0.0 fountainhopper.com
-0.0.0.0 freemediaonline.org
-0.0.0.0 frontpagemag.com
-0.0.0.0 fugitive.com
-0.0.0.0 gamesradar.com
-0.0.0.0 gawker.com
-0.0.0.0 geek.com
-0.0.0.0 geekologie.com
-0.0.0.0 geekwire.com
-0.0.0.0 genomeweb.com
-0.0.0.0 gigaom.com
-0.0.0.0 gizmodo.com
-0.0.0.0 globalpolicitian.com
-0.0.0.0 globalpost.com
-0.0.0.0 globaltimes.cn
-0.0.0.0 goldderby.com
-0.0.0.0 goodnewsnetwork.org
-0.0.0.0 gossipcenter.com
-0.0.0.0 gossipcop.com
-0.0.0.0 groundreport.com
-0.0.0.0 guestofaguest.com
-0.0.0.0 gulfsails.blogspot.com
-0.0.0.0 happynews.com
-0.0.0.0 heatst.com
-0.0.0.0 heavy.com
-0.0.0.0 hitfix.com
-0.0.0.0 hollywoodwiretap.com
-0.0.0.0 hu.budapestbeacon.com
-0.0.0.0 huanqiu.com
-0.0.0.0 huffpost.com
-0.0.0.0 ibtimes.com
-0.0.0.0 ifyoutickleus.blogspot.co.uk
-0.0.0.0 ijr.org
-0.0.0.0 ilw.com
-0.0.0.0 indiewire.com
-0.0.0.0 informnapalm.org
-0.0.0.0 inn.org
-0.0.0.0 insidephilanthropy.com
-0.0.0.0 insider.com
-0.0.0.0 insightoutnews.org
-0.0.0.0 invisibleoranges.com
-0.0.0.0 ipvm.com
-0.0.0.0 iranian.com
-0.0.0.0 ivygateblog.com
-0.0.0.0 iwep.kz
-0.0.0.0 janes.com
-0.0.0.0 jerseycityindependent.com
-0.0.0.0 joe.co.uk
-0.0.0.0 joe.ie
-0.0.0.0 jonesandblount.com
-0.0.0.0 juicycampus.com
-0.0.0.0 katahdin-news.com
-0.0.0.0 kinja.com
-0.0.0.0 knewz.com
-0.0.0.0 kycir.org
-0.0.0.0 laughingsquid.com
-0.0.0.0 legacy.com
-0.0.0.0 letsrecycle.com
-0.0.0.0 libertywriters.com
-0.0.0.0 lifewire.com
-0.0.0.0 lifezette.com
-0.0.0.0 lintcenter.org
-0.0.0.0 livedaily.com
-0.0.0.0 longwarjournal.org
-0.0.0.0 losgatosobserver.com
-0.0.0.0 lwn.net
-0.0.0.0 m.fanfiction.net
-0.0.0.0 macintouch.com
-0.0.0.0 mashable.com
-0.0.0.0 mediaite.com
-0.0.0.0 mediastorm.com
-0.0.0.0 medicalnewstoday.com
-0.0.0.0 medpagetoday.com
-0.0.0.0 memestreams.net
-0.0.0.0 mendovoice.com
-0.0.0.0 mercurynews.com
-0.0.0.0 metalsucks.com
-0.0.0.0 middleeastmonitor.com
-0.0.0.0 military.com
-0.0.0.0 minnpost.com
-0.0.0.0 mintpressnews.com
-0.0.0.0 missionlocal.org
-0.0.0.0 mississippitoday.org
-0.0.0.0 mkbhd.com
-0.0.0.0 mnn.com
-0.0.0.0 monstersandcritics.com
-0.0.0.0 montanafreepress.org
-0.0.0.0 moreover.com
-0.0.0.0 movietvtechgeeks.com
-0.0.0.0 msnbc.com
-0.0.0.0 muckety.com
-0.0.0.0 mypetjawa.mu.nu
-0.0.0.0 nakedcapitalism.com
-0.0.0.0 nation.cymru
-0.0.0.0 nationalreport.net
-0.0.0.0 nationalrockreview.com
-0.0.0.0 neowin.net
-0.0.0.0 news.google.com
-0.0.0.0 news.yahoo.com
-0.0.0.0 newspunch.com
-0.0.0.0 novaramedia.com
-0.0.0.0 nytheatre.com
-0.0.0.0 occupydemocrats.com
-0.0.0.0 opendemocracy.net
-0.0.0.0 pando.com
-0.0.0.0 pinknews.co.uk
-0.0.0.0 plantbasednews.org
-0.0.0.0 politico.com
-0.0.0.0 politics.co.uk
-0.0.0.0 programmableweb.com
-0.0.0.0 radiotoday.co.uk
-0.0.0.0 ravepubs.com
-0.0.0.0 readfrontier.org
-0.0.0.0 readwrite.com
-0.0.0.0 ridus.ru
-0.0.0.0 scotsman.com
-0.0.0.0 screenrant.com
-0.0.0.0 sdxcentral.com
-0.0.0.0 searchenginewatch.com
-0.0.0.0 semiaccurate.com
-0.0.0.0 sharesleuth.com
-0.0.0.0 site.brasilparalelo.com.br
-0.0.0.0 skwawkbox.org
-0.0.0.0 slashdot.org
-0.0.0.0 sohh.com
-0.0.0.0 sourcenews.scot
-0.0.0.0 southafricantimes.co.uk
-0.0.0.0 sprotyv.info
-0.0.0.0 swprs.org
-0.0.0.0 sylck.com
-0.0.0.0 techcrunch.com
-0.0.0.0 techdirt.com
-0.0.0.0 techmeme.com
-0.0.0.0 techreport.com
-0.0.0.0 the74million.org
-0.0.0.0 theawl.com
-0.0.0.0 theblaze.com
-0.0.0.0 thebristolcable.org
-0.0.0.0 thebulletin.org
-0.0.0.0 thebulwark.com
-0.0.0.0 thecanary.co
-0.0.0.0 thecollegefix.com
-0.0.0.0 thecontributor.com
-0.0.0.0 thedaily.com
-0.0.0.0 thedailybeast.com
-0.0.0.0 thedetroiter.com
-0.0.0.0 theexponent.com
-0.0.0.0 thefastertimes.com
-0.0.0.0 thefeature.com
-0.0.0.0 thefiscaltimes.com
-0.0.0.0 thefultoncritic.com
-0.0.0.0 thegatewaypundit.com
-0.0.0.0 thegrayzone.com
-0.0.0.0 thegrio.com
-0.0.0.0 theguardian.com
-0.0.0.0 thehawaiiindependent.com
-0.0.0.0 theincline.com
-0.0.0.0 theinformation.com
-0.0.0.0 theinquirer.net
-0.0.0.0 theins.ru
-0.0.0.0 theintercept.com
-0.0.0.0 theklaxon.com
-0.0.0.0 themainstreammedia.com
-0.0.0.0 themanc.com
-0.0.0.0 themanchestermirror.com
-0.0.0.0 themarkup.org
-0.0.0.0 themarshallproject.org
-0.0.0.0 themarysue.com
-0.0.0.0 thenews.coop
-0.0.0.0 theovertake.com
-0.0.0.0 theringer.com
-0.0.0.0 theunrealtimes.com
-0.0.0.0 theverge.com
-0.0.0.0 theworldweekly.com
-0.0.0.0 theybf.com
-0.0.0.0 tomshardware.com
-0.0.0.0 trekmovie.com
-0.0.0.0 trunews.com
-0.0.0.0 ukdefencejournal.org.uk
-0.0.0.0 venturebeat.com
-0.0.0.0 vox.com
-0.0.0.0 wamu.org
-0.0.0.0 wesleying.org
-0.0.0.0 whatculture.com
-0.0.0.0 wikistrat.com
-0.0.0.0 wikitribune.com
-0.0.0.0 winrumors.com
-0.0.0.0 wired.com
-0.0.0.0 wlbq1015.com
-0.0.0.0 worldnewsdailyreport.com
-0.0.0.0 www.adn.com
-0.0.0.0 www.airlinereporter.com
-0.0.0.0 www.airlockalpha.com
-0.0.0.0 www.alphagalileo.org
-0.0.0.0 www.asiancorrespondent.com
-0.0.0.0 www.barcroft.tv
-0.0.0.0 www.bionews.org.uk
-0.0.0.0 www.broadwayworld.com
-0.0.0.0 www.brokenfrontier.com
-0.0.0.0 www.broowaha.com
-0.0.0.0 www.buzzfeed.com
-0.0.0.0 www.cbr.com
-0.0.0.0 www.comicsalliance.com
-0.0.0.0 www.contractoruk.com
-0.0.0.0 www.data-economy.com
-0.0.0.0 www.debka.com
-0.0.0.0 www.declassifieduk.org
-0.0.0.0 www.deviantart.com
-0.0.0.0 www.doubledown.news
-0.0.0.0 www.gaystarnews.com
-0.0.0.0 www.hartlepoolpost.co.uk
-0.0.0.0 www.huffpostarabi.com
-0.0.0.0 www.infowars.com
-0.0.0.0 www.intelcenter.com
-0.0.0.0 www.iran.org
-0.0.0.0 www.labourlist.org
-0.0.0.0 www.legalcheek.com
-0.0.0.0 www.lifesitenews.com
-0.0.0.0 www.liveleak.com
-0.0.0.0 www.maturetimes.co.uk
-0.0.0.0 www.naturalnews.com
-0.0.0.0 www.newstatesman.com
-0.0.0.0 www.ntk.net
-0.0.0.0 www.opindia.com
-0.0.0.0 www.order-order.com
-0.0.0.0 www.palmerreport.com
-0.0.0.0 www.pambazuka.org
-0.0.0.0 www.phys.org
-0.0.0.0 www.pistonheads.com
-0.0.0.0 www.pixiv.net
-0.0.0.0 www.projectveritas.com
-0.0.0.0 www.reaction.life
-0.0.0.0 www.rollonfriday.com
-0.0.0.0 www.scidev.net
-0.0.0.0 www.scottishhousingnews.com
-0.0.0.0 www.shetland-news.co.uk
-0.0.0.0 www.siteintelgroup.com
-0.0.0.0 www.somersetlive.co.uk
-0.0.0.0 www.spacefellowship.com
-0.0.0.0 www.statecraft.org.uk
-0.0.0.0 www.stratfor.com
-0.0.0.0 www.techeye.net
-0.0.0.0 www.techradar.com
-0.0.0.0 www.telegraph.co.uk
-0.0.0.0 www.tercalivre.com.br
-0.0.0.0 www.thelondoneconomic.com
-0.0.0.0 www.theregister.com
-0.0.0.0 www.thinkafricapress.com
-0.0.0.0 www.tortoisemedia.com
-0.0.0.0 www.trustedreviews.com
-0.0.0.0 www.unherd.com
-0.0.0.0 www.veteranstoday.com
-0.0.0.0 www.walesonline.co.uk
-0.0.0.0 www.westmonster.com
-0.0.0.0 www.wpradio.co.uk
-0.0.0.0 xbiz.com
-0.0.0.0 xconomy.com
-0.0.0.0 zdnet.com
-0.0.0.0 zerohedge.com
-0.0.0.0 zeropaid.com
+dailysoapdish.com
+19thnews.org
+38north.org
+3quarksdaily.com
+Indymedia.org
+abajournal.com
+abcnews.com.co
+about.bgov.com
+accessinterviews.com
+addisneger.com
+adn.com
+afghantimes.com
+afterellen.com
+agoravox.fr
+aintitcool.com
+airwaysnews.com
+ajplus.net
+al-monitor.com
+allheadlinenews.com
+allthingsd.com
+alphavilleherald.com
+alreporter.com
+alternet.org
+americanbanker.com
+americanindependent.com
+americanindependentfoundation.com
+americaninno.com
+anandtech.com
+annarbor.com
+annarborobserver.com
+anotherangryvoice.blogspot.com
+apiln.co.uk
+archiveofourown.org
+arlnow.com
+arstechnica.com
+ask.com
+awardsdaily.com
+axios.com
+baltimorebrew.com
+baltimorejewishlife.com#
+bbc.co.uk
+bbc.com
+beechtreenews.com
+bellingcat.com
+bisnow.com
+bit-tech.net
+bittersoutherner.com
+blabbermouth.net
+blazetv.com
+bleedingcool.com
+bleepingcomputer.com
+blockclubchicago.org
+blog.angryasianman.com
+blogcritics.org
+blottr.com
+blueovalnews.com
+borderlessmag.org
+bossip.com
+boston.com
+boxun.com
+brandchannel.com
+breakingtweets.com
+breitbart.com
+bristol247.com
+brooklynvegan.com
+broowaha.com
+budapestbeacon.com
+buzzfeednews.com
+bylinetimes.com
+calcoastnews.com
+campusreform.org
+canyu.org
+capitolhillseattle.com
+captimes.com
+capx.co
+carsonvalleytimes.com
+cbsnews.com
+celebuzz.com
+chalkbeat.org
+chestertelegraph.org
+chicagonewscoop.org
+chinadigitaltimes.net
+christiantoday.co.uk
+christiantoday.com
+circa.com
+civilbeat.org
+cleantechnica.com
+cnet.com
+codastory.com
+collegeacb.blogspot.com
+collider.com
+coloradoindependent.com
+comiconverse.com
+comicsbulletin.com
+commondreams.org
+comtex.com
+conservativereview.com
+couriernewsroom.com
+covertactionmagazine.com
+cpnn-world.org
+crooked.com
+crosscut.com
+ctmirror.org
+dailycaller.com
+dailydot.com
+dailyemerald.com
+dailymail.co.uk
+dailysignal.com
+dailytech.com
+dailytrojan.com
+dailyvoice.com
+dailywire.com
+dallasexpress.com
+darknetlive.com
+dcleaks.com
+deadline.com
+democracynow.org
+denverguardian.com
+denverpost.com
+digg.com
+digitalspy.com
+digitaltrends.com
+diplomacymonitor.com
+dlisted.com
+dnainfo.com
+dolartoday.com
+dorseteye.com
+doubletoasted.com
+downbythehipster.com
+downtownjournal.com
+drobe.co.uk
+drudgereport.com
+dwnews.com
+eaworldview.com
+eenews.net
+elderofziyon.blogspot.com
+electrek.co
+electronicintifada.net
+elitedaily.com
+enb.iisd.org
+encyclopediadramatica.online
+epicfu.com
+escreporter.com
+eurasianet.org
+evolvepolitics.com
+examiner.com
+exaro.news
+extremetech.com
+fakingnews.com
+fanfiction.net
+fastflip.googlelabs.com
+firstcoastnews.com
+foodsafetynews.com
+fountainhopper.com
+freemediaonline.org
+frontpagemag.com
+fugitive.com
+gamesradar.com
+gawker.com
+geek.com
+geekologie.com
+geekwire.com
+genomeweb.com
+gigaom.com
+gizmodo.com
+globalpolicitian.com
+globalpost.com
+globaltimes.cn
+goldderby.com
+goodnewsnetwork.org
+gossipcenter.com
+gossipcop.com
+groundreport.com
+guestofaguest.com
+gulfsails.blogspot.com
+happynews.com
+heatst.com
+heavy.com
+hitfix.com
+hollywoodwiretap.com
+hu.budapestbeacon.com
+huanqiu.com
+huffpost.com
+ibtimes.com
+ifyoutickleus.blogspot.co.uk
+ijr.org
+ilw.com
+indiewire.com
+informnapalm.org
+inn.org
+insidephilanthropy.com
+insider.com
+insightoutnews.org
+invisibleoranges.com
+ipvm.com
+iranian.com
+ivygateblog.com
+iwep.kz
+janes.com
+jerseycityindependent.com
+joe.co.uk
+joe.ie
+jonesandblount.com
+juicycampus.com
+katahdin-news.com
+kinja.com
+knewz.com
+kycir.org
+laughingsquid.com
+legacy.com
+letsrecycle.com
+libertywriters.com
+lifewire.com
+lifezette.com
+lintcenter.org
+livedaily.com
+longwarjournal.org
+losgatosobserver.com
+lwn.net
+m.fanfiction.net
+macintouch.com
+mashable.com
+mediaite.com
+mediastorm.com
+medicalnewstoday.com
+medpagetoday.com
+memestreams.net
+mendovoice.com
+mercurynews.com
+metalsucks.com
+middleeastmonitor.com
+military.com
+minnpost.com
+mintpressnews.com
+missionlocal.org
+mississippitoday.org
+mkbhd.com
+mnn.com
+monstersandcritics.com
+montanafreepress.org
+moreover.com
+movietvtechgeeks.com
+msnbc.com
+muckety.com
+mypetjawa.mu.nu
+nakedcapitalism.com
+nation.cymru
+nationalreport.net
+nationalrockreview.com
+neowin.net
+news.google.com
+news.yahoo.com
+newspunch.com
+novaramedia.com
+nytheatre.com
+occupydemocrats.com
+opendemocracy.net
+pando.com
+pinknews.co.uk
+plantbasednews.org
+politico.com
+politics.co.uk
+programmableweb.com
+radiotoday.co.uk
+ravepubs.com
+readfrontier.org
+readwrite.com
+ridus.ru
+scotsman.com
+screenrant.com
+sdxcentral.com
+searchenginewatch.com
+semiaccurate.com
+sharesleuth.com
+site.brasilparalelo.com.br
+skwawkbox.org
+slashdot.org
+sohh.com
+sourcenews.scot
+southafricantimes.co.uk
+sprotyv.info
+swprs.org
+sylck.com
+techcrunch.com
+techdirt.com
+techmeme.com
+techreport.com
+the74million.org
+theawl.com
+theblaze.com
+thebristolcable.org
+thebulletin.org
+thebulwark.com
+thecanary.co
+thecollegefix.com
+thecontributor.com
+thedaily.com
+thedailybeast.com
+thedetroiter.com
+theexponent.com
+thefastertimes.com
+thefeature.com
+thefiscaltimes.com
+thefultoncritic.com
+thegatewaypundit.com
+thegrayzone.com
+thegrio.com
+theguardian.com
+thehawaiiindependent.com
+theincline.com
+theinformation.com
+theinquirer.net
+theins.ru
+theintercept.com
+theklaxon.com
+themainstreammedia.com
+themanc.com
+themanchestermirror.com
+themarkup.org
+themarshallproject.org
+themarysue.com
+thenews.coop
+theovertake.com
+theringer.com
+theunrealtimes.com
+theverge.com
+theworldweekly.com
+theybf.com
+tomshardware.com
+trekmovie.com
+trunews.com
+ukdefencejournal.org.uk
+venturebeat.com
+vox.com
+wamu.org
+wesleying.org
+whatculture.com
+wikistrat.com
+wikitribune.com
+winrumors.com
+wired.com
+wlbq1015.com
+worldnewsdailyreport.com
+www.adn.com
+www.airlinereporter.com
+www.airlockalpha.com
+www.alphagalileo.org
+www.asiancorrespondent.com
+www.barcroft.tv
+www.bionews.org.uk
+www.broadwayworld.com
+www.brokenfrontier.com
+www.broowaha.com
+www.buzzfeed.com
+www.cbr.com
+www.comicsalliance.com
+www.contractoruk.com
+www.data-economy.com
+www.debka.com
+www.declassifieduk.org
+www.deviantart.com
+www.doubledown.news
+www.gaystarnews.com
+www.hartlepoolpost.co.uk
+www.huffpostarabi.com
+www.infowars.com
+www.intelcenter.com
+www.iran.org
+www.labourlist.org
+www.legalcheek.com
+www.lifesitenews.com
+www.liveleak.com
+www.maturetimes.co.uk
+www.naturalnews.com
+www.newstatesman.com
+www.ntk.net
+www.opindia.com
+www.order-order.com
+www.palmerreport.com
+www.pambazuka.org
+www.phys.org
+www.pistonheads.com
+www.pixiv.net
+www.projectveritas.com
+www.reaction.life
+www.rollonfriday.com
+www.scidev.net
+www.scottishhousingnews.com
+www.shetland-news.co.uk
+www.siteintelgroup.com
+www.somersetlive.co.uk
+www.spacefellowship.com
+www.statecraft.org.uk
+www.stratfor.com
+www.techeye.net
+www.techradar.com
+www.telegraph.co.uk
+www.tercalivre.com.br
+www.thelondoneconomic.com
+www.theregister.com
+www.thinkafricapress.com
+www.tortoisemedia.com
+www.trustedreviews.com
+www.unherd.com
+www.veteranstoday.com
+www.walesonline.co.uk
+www.westmonster.com
+www.wpradio.co.uk
+xbiz.com
+xconomy.com
+zdnet.com
+zerohedge.com
+zeropaid.com

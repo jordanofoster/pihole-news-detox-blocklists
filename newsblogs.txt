@@ -1,7 +1,7 @@
-0.0.0.0 www.airlinereporter.com
-0.0.0.0 apiln.co.uk
-0.0.0.0 fakingnews.com
-0.0.0.0 huffpost.com
-0.0.0.0 monstersandcritics.com
-0.0.0.0 ukdefencejournal.org.uk
-0.0.0.0 theunrealtimes.com
+www.airlinereporter.com
+apiln.co.uk
+fakingnews.com
+huffpost.com
+monstersandcritics.com
+ukdefencejournal.org.uk
+theunrealtimes.com

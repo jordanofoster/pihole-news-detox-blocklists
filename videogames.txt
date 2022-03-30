@@ -1,11 +1,11 @@
-0.0.0.0 planethalflife.gamespy.com
-0.0.0.0 world.ign.com
-0.0.0.0 1up.com
-0.0.0.0 www.gametrailers.com
-0.0.0.0 teamxbox.com
-0.0.0.0 www.cheapassgamer.com
-0.0.0.0 destructoid.com
-0.0.0.0 didyouknowgaming.com
-0.0.0.0 GamePolitics.com
-0.0.0.0 oghc.blogspot.com
-0.0.0.0 jayisgames.com
+planethalflife.gamespy.com
+world.ign.com
+1up.com
+www.gametrailers.com
+teamxbox.com
+www.cheapassgamer.com
+destructoid.com
+didyouknowgaming.com
+GamePolitics.com
+oghc.blogspot.com
+jayisgames.com

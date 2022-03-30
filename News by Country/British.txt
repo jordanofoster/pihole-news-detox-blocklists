@@ -1,86 +1,86 @@
-0.0.0.0 novaramedia.com
-0.0.0.0 bit-tech.net
-0.0.0.0 theinquirer.net
-0.0.0.0 www.phys.org
-0.0.0.0 www.theregister.com
-0.0.0.0 www.scidev.net
-0.0.0.0 www.trustedreviews.com
-0.0.0.0 wikitribune.com
-0.0.0.0 accessinterviews.com
-0.0.0.0 www.alphagalileo.org
-0.0.0.0 anotherangryvoice.blogspot.com
-0.0.0.0 thecanary.co
-0.0.0.0 evolvepolitics.com
-0.0.0.0 www.labourlist.org
-0.0.0.0 skwawkbox.org
-0.0.0.0 www.doubledown.news
-0.0.0.0 bylinetimes.com
-0.0.0.0 www.thelondoneconomic.com
-0.0.0.0 www.order-order.com
-0.0.0.0 www.westmonster.com
-0.0.0.0 www.asiancorrespondent.com
-0.0.0.0 www.barcroft.tv
-0.0.0.0 bbc.co.uk
-0.0.0.0 bbc.com
-0.0.0.0 www.bionews.org.uk
-0.0.0.0 blottr.com
-0.0.0.0 bristol247.com
-0.0.0.0 thebristolcable.org
-0.0.0.0 capx.co
-0.0.0.0 christiantoday.com
-0.0.0.0 christiantoday.co.uk
-0.0.0.0 thenews.coop
-0.0.0.0 www.contractoruk.com
-0.0.0.0 www.data-economy.com
-0.0.0.0 opendemocracy.net
-0.0.0.0 digitalspy.com
-0.0.0.0 dorseteye.com
-0.0.0.0 drobe.co.uk
-0.0.0.0 eaworldview.com
-0.0.0.0 exaro.news
-0.0.0.0 gamesradar.com
-0.0.0.0 www.gaystarnews.com
-0.0.0.0 theguardian.com
-0.0.0.0 www.hartlepoolpost.co.uk
-0.0.0.0 www.huffpostarabi.com
-0.0.0.0 ifyoutickleus.blogspot.co.uk
-0.0.0.0 joe.ie
-0.0.0.0 joe.co.uk
-0.0.0.0 www.legalcheek.com
-0.0.0.0 letsrecycle.com
-0.0.0.0 www.liveleak.com
-0.0.0.0 dailymail.co.uk
-0.0.0.0 themainstreammedia.com
-0.0.0.0 www.maturetimes.co.uk
-0.0.0.0 www.walesonline.co.uk
-0.0.0.0 medicalnewstoday.com
-0.0.0.0 middleeastmonitor.com
-0.0.0.0 nation.cymru
-0.0.0.0 www.ntk.net
-0.0.0.0 www.newstatesman.com
-0.0.0.0 theovertake.com
-0.0.0.0 www.pambazuka.org
-0.0.0.0 pinknews.co.uk
-0.0.0.0 www.pistonheads.com
-0.0.0.0 plantbasednews.org
-0.0.0.0 politics.co.uk
-0.0.0.0 radiotoday.co.uk
-0.0.0.0 www.reaction.life
-0.0.0.0 www.rollonfriday.com
-0.0.0.0 southafricantimes.co.uk
-0.0.0.0 scotsman.com
-0.0.0.0 www.scottishhousingnews.com
-0.0.0.0 www.shetland-news.co.uk
-0.0.0.0 www.somersetlive.co.uk
-0.0.0.0 sourcenews.scot
-0.0.0.0 www.spacefellowship.com
-0.0.0.0 www.techeye.net
-0.0.0.0 www.techradar.com
-0.0.0.0 themanc.com
-0.0.0.0 www.telegraph.co.uk
-0.0.0.0 theworldweekly.com
-0.0.0.0 www.thinkafricapress.com
-0.0.0.0 www.tortoisemedia.com
-0.0.0.0 www.declassifieduk.org
-0.0.0.0 www.unherd.com
-0.0.0.0 www.wpradio.co.uk
+novaramedia.com
+bit-tech.net
+theinquirer.net
+www.phys.org
+www.theregister.com
+www.scidev.net
+www.trustedreviews.com
+wikitribune.com
+accessinterviews.com
+www.alphagalileo.org
+anotherangryvoice.blogspot.com
+thecanary.co
+evolvepolitics.com
+www.labourlist.org
+skwawkbox.org
+www.doubledown.news
+bylinetimes.com
+www.thelondoneconomic.com
+www.order-order.com
+www.westmonster.com
+www.asiancorrespondent.com
+www.barcroft.tv
+bbc.co.uk
+bbc.com
+www.bionews.org.uk
+blottr.com
+bristol247.com
+thebristolcable.org
+capx.co
+christiantoday.com
+christiantoday.co.uk
+thenews.coop
+www.contractoruk.com
+www.data-economy.com
+opendemocracy.net
+digitalspy.com
+dorseteye.com
+drobe.co.uk
+eaworldview.com
+exaro.news
+gamesradar.com
+www.gaystarnews.com
+theguardian.com
+www.hartlepoolpost.co.uk
+www.huffpostarabi.com
+ifyoutickleus.blogspot.co.uk
+joe.ie
+joe.co.uk
+www.legalcheek.com
+letsrecycle.com
+www.liveleak.com
+dailymail.co.uk
+themainstreammedia.com
+www.maturetimes.co.uk
+www.walesonline.co.uk
+medicalnewstoday.com
+middleeastmonitor.com
+nation.cymru
+www.ntk.net
+www.newstatesman.com
+theovertake.com
+www.pambazuka.org
+pinknews.co.uk
+www.pistonheads.com
+plantbasednews.org
+politics.co.uk
+radiotoday.co.uk
+www.reaction.life
+www.rollonfriday.com
+southafricantimes.co.uk
+scotsman.com
+www.scottishhousingnews.com
+www.shetland-news.co.uk
+www.somersetlive.co.uk
+sourcenews.scot
+www.spacefellowship.com
+www.techeye.net
+www.techradar.com
+themanc.com
+www.telegraph.co.uk
+theworldweekly.com
+www.thinkafricapress.com
+www.tortoisemedia.com
+www.declassifieduk.org
+www.unherd.com
+www.wpradio.co.uk

@@ -1,6 +1,6 @@
-0.0.0.0 agoravox.fr
-0.0.0.0 bellingcat.com
-0.0.0.0 www.broowaha.com
-0.0.0.0 Indymedia.org
-0.0.0.0 ridus.ru
-0.0.0.0 theins.ru
+agoravox.fr
+bellingcat.com
+www.broowaha.com
+Indymedia.org
+ridus.ru
+theins.ru
